@@ -1,0 +1,2 @@
+# mythql
+GraphQL Endpoint
